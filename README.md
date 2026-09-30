@@ -10,5 +10,9 @@ Pide contraseña (la entrega el equipo organizador).
 
 **Abrir el cronograma:** https://nico-inter-program.github.io/Cronograma-Interalianzas-2026/
 
+## 🏆 Juegos: cronograma, posiciones y nóminas
+
+**Abrir:** https://nico-inter-program.github.io/Cronograma-Interalianzas-2026/juegos/
+
 ---
 Sistema creado por Nicolás Novakovic · Lycée Claude Gay – Osorno
